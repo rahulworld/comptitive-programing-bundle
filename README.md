@@ -1,5 +1,5 @@
 # comptitive-programing-bundle
-A Total Bundle of Comptitive coding preparation for newbie in Comptitive Programming.
+A Total Bundle of Comptitive coding preparation for newbie in Comptitive Programming and skills.
 
 #### Issues
 If you are a developer and you wish to contribute to the bundle please fork the project and submit a pull request.
