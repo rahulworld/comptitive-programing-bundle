@@ -4,6 +4,7 @@ A Total Bundle of Comptitive coding preparation and materail for newbie in Compt
 #pdf
 Getting started in sport of programing.
 #docs
+Getting started in sport of programing.
 
 #### Issues
 If you are a developer and you wish to contribute to the bundle please fork the project and submit a pull request.
