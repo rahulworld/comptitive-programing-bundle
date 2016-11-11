@@ -3,7 +3,7 @@ A Total Bundle of Comptitive coding preparation and materail for newbie in Compt
 
 #pdf
 Getting started in sport of programing.
-Algorithms Books.
+Algorithms pdf.
 
 #docs
 Getting started in sport of programing.
