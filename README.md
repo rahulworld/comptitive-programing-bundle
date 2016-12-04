@@ -1,5 +1,5 @@
 # comptitive-programing-bundle
-A Total Bundle of Comptitive coding preparation and materail for newbie in Comptitive Programming and skills and how to work on spoj, codeforces, topcoder and many comptitive coding plateform.
+A Total Bundle of Comptitive coding preparation and material for newbie in Comptitive Programming and algorithm based skills and how to work on spoj, codeforces, topcoder and many comptitive coding plateform.
 
 #pdf
 Getting started in sport of programing.
